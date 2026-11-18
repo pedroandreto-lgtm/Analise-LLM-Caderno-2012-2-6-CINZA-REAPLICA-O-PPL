@@ -1,0 +1,15 @@
+QUESTÃO 160
+
+Durante seu treinamento, um atleta percorre metade de uma pista circular de raio R, conforme figura a seguir. A sua largada foi dada na posição representada pela letra L, a chegada está representada pela letra C e a letra A representa o atleta. O segmento LC é um diâmetro da circunferência e o centro da circunferência está representado pela letra F.
+
+Sabemos que, em qualquer posição que o atleta esteja na pista, os segmentos LA e AC são perpendiculares. Seja $\theta$ o ângulo que o segmento AF faz com segmento FC.
+
+[FIGURA: Diagrama geométrico mostrando uma semicircunferência superior com pontos L, A, C na borda e o ponto F no centro do diâmetro horizontal LC. O ponto L está na extremidade esquerda e o ponto C na extremidade direita do diâmetro LC. O ponto A está localizado na parte superior da semicircunferência, representando o atleta. Segmentos tracejados conectam L a A, A a C e A a F. O segmento LC é dividido em duas partes iguais pelo ponto F, ambas rotuladas com a letra R (LF = R e FC = R). O ângulo $\theta$ está destacado em cinza claro, formado entre os segmentos AF e FC a partir do centro F.]
+
+Quantos graus mede o ângulo $\theta$ quando o segmento AC medir R durante a corrida?
+
+A) 15 graus
+B) 30 graus
+C) 60 graus
+D) 90 graus
+E) 120 graus

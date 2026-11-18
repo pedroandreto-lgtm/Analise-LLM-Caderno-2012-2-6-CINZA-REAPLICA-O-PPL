@@ -1,0 +1,13 @@
+QUESTÃO 166
+
+Um pequeno caminhão dispõe de dois reservatórios vazios, cada um com capacidade de 2 000 kg, os quais serão utilizados para transportar a produção de milho e soja até um centro consumidor. No centro de abastecimento abre-se o registro de um primeiro silo às 12 horas para alimentar o reservatório 1 com milho, numa taxa de 120 kg por minuto. Passados cinco minutos, abre-se o registro de um segundo silo para alimentar o reservatório 2 com soja, numa taxa de 80 kg por minuto. Considere que a encomenda de milho no centro consumidor seja de 1 800 kg e que, pela lei rodoviária local, a carga máxima a ser transportada por caminhão seja de 3 400 kg.
+
+**[FIGURA: Ilustração esquemática contendo dois silos na parte superior e um caminhão na parte inferior. O Silo 1 é representado por um retângulo com um triângulo invertido acoplado embaixo, contendo o texto "Silo 1". À direita, o Silo 2 possui o mesmo formato, com o texto "Silo 2". Abaixo deles, há um caminhão com dois compartimentos de carga lado a lado: o primeiro à esquerda rotulado como "Reservatório 1 Milho", e o segundo rotulado como "Reservatório 2 Soja", seguido pela cabine do motorista com uma janela. O caminhão possui quatro rodas em sua base.]**
+
+Nestas condições, em que instantes devem ser fechados os registros dos silos 1 e 2, respectivamente, para que a quantidade de soja transportada seja a máxima possível?
+
+A) 12h15min e 12h20min
+B) 12h15min e 12h25min
+C) 12h15min e 12h27min30seg
+D) 12h15min e 12h30min
+E) 12h15min e 12h32min30seg

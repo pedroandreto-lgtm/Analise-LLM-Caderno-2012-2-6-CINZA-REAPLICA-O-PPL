@@ -1,0 +1,11 @@
+QUESTÃO 145
+
+Uma churrascaria cobra, no almoço, R$ 12,00 por pessoa. Após às 15 h, esse valor cai para R$ 9,00. Estima-se que o custo total de um almoço seja de R$ 7,00 por pessoa. Em média, por dia, almoçam na churrascaria 1 000 clientes, sendo que $\frac{3}{4}$ deles comparecem até às 15 h.
+
+Qual o lucro médio, por dia, da churrascaria?
+
+A) R$ 9 000,00
+B) R$ 7 000,00
+C) R$ 4 250,00
+D) R$ 3 750,00
+E) R$ 2 250,00

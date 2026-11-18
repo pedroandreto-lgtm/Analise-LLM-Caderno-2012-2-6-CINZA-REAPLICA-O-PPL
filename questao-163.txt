@@ -1,0 +1,13 @@
+QUESTÃO 163
+
+No mês de setembro de 2011, a Petrobras atingiu a produção diária de 129 mil barris de petróleo na área do pré-sal no Brasil. O volume de um barril de petróleo corresponde a 159 litros.
+
+Disponível em: http/veja.abril.com.br. Acesso em: 20 nov. 2011 (adaptado).
+
+De acordo com essas informações, em setembro de 2011, a produção diária, em $m^3$, atingida pela Petrobras na área do pré-sal no Brasil foi de
+
+A) 20,511.
+B) 20 511.
+C) 205 110.
+D) 2 051 100.
+E) 20 511 000.

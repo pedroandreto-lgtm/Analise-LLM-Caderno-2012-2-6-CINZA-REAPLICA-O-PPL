@@ -1,0 +1,21 @@
+QUESTÃO 149
+
+Uma coleta de dados em mais de 5 mil sites da internet apresentou os conteúdos de interesse de cada faixa etária. Na tabela a seguir estão os dados obtidos para a faixa etária de 0 a 17 anos.
+
+[FIGURA: Tabela com duas colunas intituladas "Preferências" e "Porcentagem". Linha 1: Música, 22,5%. Linha 2: Blogs, 15,0%. Linha 3: Serviços Web*, 10,2%. Linha 4: Games, 10,0%. Linha 5: Horóscopo, 9,0%. Linha 6: Games on-line, 7,4%. Linha 7: Educação **, 6,5%. Linha 8: Teen, 4,0%. Linha 9: Compras, 3,4%. Linha 10: Outras, 12,0%.]
+
+* Serviços *web*: aplicativos *on-line*, *emoticons*, mensagens para redes socias, entre outros.
+
+** Sites sobre vestibular, ENEM, páginas com material de pesquisa escolar.
+
+Considere que esses dados refletem os interesses dos brasileiros desta faixa etária.
+
+Disponível em: www.navegg.com. Acesso em: 12 nov. 2011 (adaptado).
+
+Selecionando, ao acaso, uma pessoa desta faixa etária, a probabilidade de que ela não tenha preferência por horóscopo é
+
+A 0,09.
+B 0,10.
+C 0,11.
+D 0,79.
+E 0,91.

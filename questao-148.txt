@@ -1,0 +1,15 @@
+QUESTÃO 148
+
+Uma pesquisa foi realizada com a intenção de conhecer o que as pessoas sabem sobre o diabetes. Nela, utilizou-se um questionário com 16 perguntas, respondidas pelas pessoas na entrada de estações do metrô de São Paulo. Os gráficos a seguir mostram, respectivamente, os percentuais de respostas dadas às seguintes perguntas do questionário: *"Você conhece alguém com diabetes?"* e *"Caso conheça, indique onde."*
+
+[FIGURA: Dois gráficos de setores (pizza) em perspectiva 3D. O primeiro gráfico superior, intitulado pelas legendas "SIM" e "NÃO", mostra os percentuais de respostas para a pergunta "Você conhece alguém com diabetes?": 37% respondem "SIM" (setor em tom mais claro) e 63% respondem "NÃO" (setor em tom mais escuro). O segundo gráfico inferior detalha onde as pessoas conhecem diabéticos, dividido em quatro categorias: "Na Família" (48%, setor escuro à direita), "No Trabalho" (21%, setor lateral esquerdo), "Na Família e No Trabalho" (16%, setor superior) e "Na Escola" (15%, setor inferior cinza claro).]
+
+Disponível em: www.diabetes.org.br (adaptado).
+
+O percentual do número de entrevistados que conhecem pessoas diabéticas na escola é mais aproximado por
+
+A 6%.
+B 15%.
+C 37%.
+D 41%.
+E 52%.

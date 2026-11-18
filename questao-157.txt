@@ -1,0 +1,13 @@
+QUESTÃO 157
+
+Um jovem lança uma bola de borracha para observar sua trajetória e altura h (em metros) atingida ao longo de um certo intervalo de tempo t (em segundos). Nesse intervalo, a bola quica no chão algumas vezes, perdendo altura progressivamente. Parte de sua trajetória está descrita na figura a seguir.
+
+**[FIGURA: Gráfico cartesiano de altura h (em metros) versus tempo t (em segundos). O eixo vertical (h) está graduado de 10 em 10 até 50 (mostrando 10, 20, 30, 40, 50). O eixo horizontal (t) representa o tempo e possui marcações nos pontos 0, 15, 27, 36, 42, 45, 46 e reticências (...) indicando continuação. O gráfico mostra arcos parabólicos decrescentes que tocam o eixo t (altura zero) nos instantes 0, 15, 27, 36, 42, 45 e 46. As alturas máximas de cada arco decrescem progressivamente: o primeiro arco atinge uma altura acima de 40 metros (entre 40 e 50); o segundo arco atinge uma altura de 30 metros; o terceiro arco atinge uma altura abaixo de 30 metros; o quarto arco atinge uma altura próxima a 20 metros; os arcos subsequentes atingem alturas menores, cada vez mais baixas.]**
+
+Em suas observações, quantas vezes o jovem pôde constatar que a bola atingiu a marca de 35 metros?
+
+A) Nenhuma.
+B) Uma vez.
+C) Duas vezes.
+D) Quatro vezes.
+E) Cinco vezes.

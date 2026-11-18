@@ -1,0 +1,11 @@
+QUESTÃO 154
+
+Em um terreno, deseja-se instalar uma piscina com formato de um bloco retangular de altura $1\text{ m}$ e base de dimensões $20\text{ m} \times 10\text{ m}$. Nas faces laterais e no fundo desta piscina será aplicado um líquido para a impermeabilização. Esse líquido deve ser aplicado na razão de $1\text{ L}$ para cada $1\text{ m}^2$ de área a ser impermeabilizada. O fornecedor A vende cada lata de impermeabilizante de $10\text{ L}$ por $\text{R\$ } 100,00$, e o B vende cada lata de $15\text{ L}$ por $\text{R\$ } 145,00$.
+
+Determine a quantidade de latas de impermeabilizante que deve ser comprada e o fornecedor a ser escolhido, de modo a se obter o menor custo.
+
+Ⓐ Fabricante A, $26$ latas.
+Ⓑ Fabricante A, $46$ latas.
+Ⓒ Fabricante B, $17$ latas.
+Ⓓ Fabricante B, $18$ latas.
+Ⓔ Fabricante B, $31$ latas.

@@ -1,0 +1,26 @@
+QUESTÃO 138
+
+A figura apresenta a eficiência, a vida útil (mil horas) e o preço médio (R$) dos modelos de lâmpadas mais usados em residências.
+
+[FIGURA: Infográfico com fundo cinza escuro mostrando 5 tipos de lâmpadas residenciais, organizadas em colunas com imagens ilustrativas e uma tabela de dados na parte inferior. 
+Da esquerda para a direita, os tipos são:
+1. Incandescentes: bulbo tradicional, eficiência = 12 lúmens por Watt, vida útil = 1 mil horas, preço médio = R$ 3.
+2. Halógenas: lâmpada refletora menor, eficiência = 20 lúmens por Watt, vida útil = 4 mil horas, preço médio = R$ 10.
+3. Fluorescentes: tubo longo e reto, eficiência = 80 lúmens por Watt, vida útil = 8 mil horas, preço médio = R$ 6.
+4. Fluorescentes compactas: lâmpada espiralada, eficiência = 60 lúmens por Watt, vida útil = 6 mil horas, preço médio = R$ 13.
+5. LEDs: bulbo com matriz de LED interna, eficiência = 80 lúmens por Watt, vida útil = 40 mil horas, preço médio = R$ 130.
+Notas de rodapé: * Lúmens por Watt (o lúmen é uma unidade de medida de fluxo luminoso). ** Comparativo de uma incandescente de 60 W, 110 V, em lojas on-line.]
+
+Superinteressante. São Paulo: Abril, jul. 2011 (adaptado).
+
+Considere que, para iluminar dois ambientes com a mesma eficiência, é necessário que ambos tenham a mesma quantidade de lúmens por Watt, independentemente da quantidade de lâmpadas. Considere também que a relação custo/benefício de qualquer uma dessas lâmpadas é dada pela razão entre o preço médio (R$) e a vida útil (mil horas).
+
+Augusto deseja instalar lâmpadas em um dos ambientes de sua casa, de modo a obter uma eficiência de exatamente 240 lúmens por Watt.
+
+Dos modelos de lâmpadas apresentados na figura, o que atende a necessidade de Augusto com a menor relação custo/benefício é
+
+A LED.
+B halógena.
+C fluorescente.
+D incandescente.
+E fluorescente compacta.

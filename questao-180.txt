@@ -1,0 +1,15 @@
+QUESTÃO 180
+
+Uma empresa analisou mensalmente as vendas de um de seus produtos ao longo de 12 meses após seu lançamento. Concluiu que, a partir do lançamento, a venda mensal do produto teve um crescimento linear até o quinto mês. A partir daí houve uma redução nas vendas, também de forma linear, até que as vendas se estabilizaram nos dois últimos meses da análise.
+
+O gráfico que representa a relação entre o número de vendas e os meses após o lançamento do produto é
+
+A) **[FIGURA: Gráfico cartesiano com eixo vertical "Número de vendas" e eixo horizontal "Meses após o lançamento" enumerados de 1 a 12. A curva de vendas parte da origem, tem um crescimento não linear (exponencial/côncavo) até atingir um pico no mês 5, e depois decresce de forma suave e curva (convexa) até se estabilizar horizontalmente nos meses 11 e 12.]**
+
+B) **[FIGURA: Gráfico cartesiano com eixo vertical "Número de vendas" e eixo horizontal "Meses após o lançamento" enumerados de 1 a 12. A linha de vendas é um segmento de reta crescente da origem até o mês 5, a partir do qual se torna uma linha horizontal constante até o mês 12.]**
+
+C) **[FIGURA: Gráfico cartesiano com eixo vertical "Número de vendas" e eixo horizontal "Meses após o lançamento" enumerados de 1 a 12. A linha de vendas é composta por um segmento de reta crescente do mês 0 ao 5 (atingindo um pico) e um segmento de reta decrescente do mês 5 até o mês 12.]**
+
+D) **[FIGURA: Gráfico cartesiano com eixo vertical "Número de vendas" e eixo horizontal "Meses após o lançamento" enumerados de 1 a 12. A linha de vendas é composta por três segmentos: uma reta crescente do mês 0 ao 5, um segmento horizontal do mês 5 ao 10, e uma reta decrescente acentuada do mês 10 ao 12.]**
+
+E) **[FIGURA: Gráfico cartesiano com eixo vertical "Número de vendas" e eixo horizontal "Meses após o lançamento" enumerados de 1 a 12. A linha de vendas é composta por três segmentos: uma reta crescente do mês 0 ao 5, uma reta decrescente do mês 5 ao 10, e um segmento horizontal constante (estabilização) do mês 10 ao 12.]**

@@ -1,0 +1,17 @@
+QUESTÃO 165
+Nas empresas em geral, são utilizados dois tipos de copos plásticos descartáveis, ambos com a forma de troncos de cones circulares retos:
+• copos pequenos, para a ingestão de café: raios das bases iguais a $2,4\text{ cm}$ e $1,8\text{ cm}$ e altura igual a $3,6\text{ cm}$;
+• copos grandes, para a ingestão de água: raios das bases iguais a $3,6\text{ cm}$ e $2,4\text{ cm}$ e altura igual a $8,0\text{ cm}$.
+
+Uma dessas empresas resolve substituir os dois modelos de copos descartáveis, fornecendo para cada um de seus funcionários canecas com a forma de um cilindro circular reto de altura igual a $6\text{ cm}$ e raio da base de comprimento igual a $y\text{ centímetro}$. Tais canecas serão usadas tanto para beber café como para beber água.
+
+Sabe-se que o volume de um tronco de cone circular reto, cujos raios das bases são respectivamente iguais a $R$ e $r$ e a altura é $h$, é dado pela expressão:
+$$V_{\text{tronco de cone}} = \frac{\pi h}{3}(R^2 + r^2 + Rr)$$
+
+O raio $y$ da base dessas canecas deve ser tal que $y^2$ seja, no mínimo, igual a
+
+A 2,664 cm.
+B 7,412 cm.
+C 12,160 cm.
+D 14,824 cm.
+E 19,840 cm.

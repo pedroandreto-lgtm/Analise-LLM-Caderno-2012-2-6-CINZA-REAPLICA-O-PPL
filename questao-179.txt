@@ -1,0 +1,15 @@
+QUESTÃO 179
+
+No ano de 2010 o DataSenado realizou uma pesquisa intitulada "Condições de vida das pessoas com deficiência no Brasil". A pesquisa ouviu 1 165 pessoas com deficiência e uma das questões foi a seguinte: "Para você, nos últimos anos, o preconceito em relação às pessoas com deficiência está igual, aumentando ou diminuindo?". A porcentagem das respostas a esta pergunta é mostrada na tabela a seguir.
+
+**[FIGURA: Tabela com três colunas e duas linhas. A primeira linha contém os cabeçalhos: "Igual", "Aumentando" e "Diminuindo". A segunda linha contém os valores correspondentes de porcentagem: "31%", "10%" e "59%", respectivamente.]**
+
+Disponível em: www.ibdd.org.br. Acesso em: 20 nov. 2011.
+
+Pelos dados contidos na tabela, o número que mais se aproxima da quantidade de pessoas que responderam "diminuindo" é
+
+A) 69.
+B) 116.
+C) 361.
+D) 687.
+E) 1 106.

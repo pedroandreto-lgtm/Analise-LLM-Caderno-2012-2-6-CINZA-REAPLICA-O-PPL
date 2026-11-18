@@ -1,0 +1,15 @@
+QUESTÃO 143
+
+O Ministério da Saúde acompanha com preocupação a difusão da tuberculose no Brasil. Um sistema de vigilância baseia-se no acompanhamento sistemático das taxas de incidência dessa doença nos estados. Depois de credenciar alguns estados a receberem recursos, em 2006, passou a ser de grande importância definir prioridades para a alocação de recursos de combate e prevenção, levando em consideração as taxas de incidência para os anos de 2000 e 2004, conforme o quadro seguinte.
+
+[FIGURA: Tabela com o título "Taxa de incidência", dividida em colunas "Estado", "2000" e "2004". Os dados por estado são: Amapá (2000: 9,0; 2004: 37,1), Amazonas (2000: 72,8; 2004: 69,0), Goiás (2000: 20,5; 2004: 16,7), Minas Gerais (2000: 0,3; 2004: 27,2), Pernambuco (2000: 43,3; 2004: 51,0), Rio de Janeiro (2000: 90,7; 2004: 79,7) e São Paulo (2000: 45,8; 2004: 38,2).]
+
+Disponível em: SINAN, 2006; IBGE, Censo 2000.
+
+Se a prioridade na distribuição de recursos for dada ao estado que tiver maior aumento absoluto em suas taxas de incidência, ela será dada para
+
+Ⓐ Amapá.
+Ⓑ Amazonas.
+Ⓒ Minas Gerais.
+Ⓓ Pernambuco.
+Ⓔ Rio de Janeiro.

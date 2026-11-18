@@ -1,0 +1,19 @@
+QUESTÃO 172
+
+Em uma das paredes de um depósito existem compartimentos de mesmo tamanho para armazenamento de caixas de dimensões frontais a e b. A terceira dimensão da caixa coincide com a profundidade de cada um dos compartimentos. Inicialmente as caixas são arrumadas, em cada um deles, como representado na Figura 1. A fim de aproveitar melhor o espaço, uma nova proposta de disposição das caixas foi idealizada e está indicada na Figura 2. Essa nova proposta possibilitaria o aumento do número de caixas armazenadas de 10 para 12 e a eliminação de folgas.
+
+[FIGURA: Figura 1 mostra um compartimento retangular contendo 10 caixas dispostas em 2 linhas e 5 colunas. Na parte superior esquerda, há uma indicação de folga de "2 cm". Na lateral direita, a altura de duas caixas é indicada pela letra "b". Na parte inferior, há três indicações de medidas: uma folga de "2 cm" na extremidade esquerda, a largura "a" de uma caixa na segunda coluna, e uma folga de "3 cm" na extremidade direita.]
+
+Figura 1
+
+[FIGURA: Figura 2 mostra o mesmo compartimento retangular, agora contendo 12 caixas dispostas em 3 linhas e 4 colunas, sem folgas visíveis. Na lateral esquerda, a altura de uma caixa é indicada pela letra "a". Na parte inferior, a largura de uma caixa é indicada pela letra "b".]
+
+Figura 2
+
+É possível ocorrer a troca de arrumação segundo a nova proposta?
+
+A Não, porque a segunda proposta deixa uma folga de 4 cm na altura do compartimento, que é de 12 cm, o que permitiria colocar um número maior de caixas.
+B Não, porque, para aceitar a segunda proposta, seria necessário praticamente dobrar a altura e reduzir à metade a largura do compartimento.
+C Sim, porque a nova disposição das caixas ficaria acomodada perfeitamente no compartimento de 20 cm de altura por 27 cm de largura.
+D Sim, pois efetivamente aumentaria o número de caixas e reduziria o número de folgas para apenas uma de 2 cm na largura do compartimento.
+E Sim, porque a nova disposição de caixas ficaria acomodada perfeitamente no compartimento de 32 cm de altura por 45 cm de largura.

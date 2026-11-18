@@ -1,0 +1,15 @@
+QUESTÃO 141
+
+Acidentes banais como escorregões, quedas e tropeços se tornaram a segunda maior causa de morte na humanidade. A tabela a seguir mostra alguns tipos de acidentes e sua incidência, em milhares, no ano de 2009, nos EUA.
+
+**[FIGURA: Tabela com duas colunas. A coluna da esquerda intitula-se "Tipos de acidentes" e contém as linhas: "Andando a cavalo", "Andando de bicicleta", "Acidentes na cama", "Acidentes na piscina", "Acidentes no banheiro", "Jogando futebol". A coluna da direita intitula-se "Machucados em 2009" e contém, respectivamente, os valores: 80, 400, 500, 160, 400, 200.]**
+
+SOLEIRO, R. et al. Os novos jeitos de morrer. **Superinteressante**, dez. 2011 (adaptado).
+
+Considerando os dados apresentados, a média de machucados em 2009, em milhares, nos EUA, foi igual a
+
+A) 200.
+B) 268.
+C) 290.
+D) 300.
+E) 330.

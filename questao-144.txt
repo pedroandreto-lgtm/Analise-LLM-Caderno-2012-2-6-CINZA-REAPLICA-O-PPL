@@ -1,0 +1,15 @@
+QUESTÃO 144
+
+Em uma aula de matemática, a professora propôs que os alunos construíssem um cubo a partir da planificação em uma folha de papel, representada na figura a seguir.
+
+**[FIGURA: Planificação de um cubo em formato de cruz escalonada, composta por 6 quadrados dispostos verticalmente e em degraus. Contém as seguintes letras maiúsculas em cada quadrado: o quadrado superior possui a letra 'E'; abaixo dele, há dois quadrados lado a lado, contendo 'N' na coluna da esquerda e 'E' na coluna da direita; abaixo da coluna da direita, há dois quadrados lado a lado, contendo 'M' na coluna da esquerda e 'B' na coluna da direita; abaixo do quadrado com a letra 'B', há um último quadrado contendo a letra 'R'.]**
+
+Após a construção do cubo, apoiou-se sobre a mesa a face com a letra M.
+
+As faces paralelas deste cubo são representadas pelos pares de letras
+
+A E-N, E-M e B-R.
+B B-N, E-E e M-R.
+C E-M, B-N e E-R.
+D B-E, E-R e M-N.
+E E-N, B-M e E-R.

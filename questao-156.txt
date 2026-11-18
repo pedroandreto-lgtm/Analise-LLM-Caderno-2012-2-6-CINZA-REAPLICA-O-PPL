@@ -1,0 +1,19 @@
+QUESTÃO 156
+
+Vítor deseja revestir uma sala retangular de dimensões $3\text{ m} \times 4\text{ m}$, usando um tipo de peça de cerâmica. Em uma pesquisa inicial, ele selecionou cinco tipos de peças disponíveis, nos seguintes formatos e dimensões:
+
+* Tipo I: quadrados, com $0,5\text{ m}$ de lado.
+* Tipo II: triângulos equiláteros, com $0,5\text{ m}$ de lado.
+* Tipo III: retângulos, com dimensões $0,5\text{ m} \times 0,6\text{ m}$.
+* Tipo IV: triângulos retângulos isósceles, cujos catetos medem $0,5\text{ m}$.
+* Tipo V: quadrados, com $0,6\text{ m}$ de lado.
+
+Analisando a pesquisa, o mestre de obras recomendou que Vítor escolhesse um tipo de piso que possibilitasse a utilização do menor número de peças e não acarretasse sobreposições ou cortes nas cerâmicas.
+
+Qual o tipo de piso o mestre de obras recomendou que fosse comprado?
+
+A) Tipo I.
+B) Tipo II.
+C) Tipo III.
+D) Tipo IV.
+E) Tipo V.

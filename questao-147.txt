@@ -1,0 +1,11 @@
+QUESTÃO 147
+
+Um reservatório de uma cidade estava com $30\text{ m}^3$ de água no momento em que iniciou um vazamento estimado em $30\text{ litros por minuto}$. Depois de $20\text{ minutos}$, a partir do início do vazamento, uma equipe técnica chegou ao local e gastou exatamente $2\text{ horas}$ para consertar o sistema e parar o vazamento. O reservatório não foi reabastecido durante todo o período que esteve com o vazamento.
+
+Qual foi o volume de água que sobrou no reservatório, em $\text{m}^3$, no momento em que parou o vazamento?
+
+A) $3,6$
+B) $4,2$
+C) $25,8$
+D) $26,4$
+E) $27,6$

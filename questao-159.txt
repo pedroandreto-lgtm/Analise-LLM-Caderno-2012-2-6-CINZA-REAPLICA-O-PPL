@@ -1,0 +1,11 @@
+QUESTÃO 159
+
+Uma prefeitura possui modelos de lixeira de forma cilíndrica, sem tampa, com raio medindo 10 cm e altura de 50 cm. Para fazer uma compra adicional, solicita à empresa fabricante um orçamento de novas lixeiras, com a mesma forma e outras dimensões. A prefeitura só irá adquirir as novas lixeiras se a capacidade de cada uma for no mínimo dez vezes maior que o modelo atual e seu custo unitário não ultrapassar R$ 20,00. O custo de cada lixeira é proporcional à sua área total e o preço do material utilizado na sua fabricação é de R$ 0,20 para cada $100\text{ cm}^2$. A empresa apresenta um orçamento discriminando o custo unitário e as dimensões, com o raio sendo o triplo do anterior e a altura aumentada em 10 cm. (Aproxime $\pi$ para 3.)
+
+O orçamento dessa empresa é rejeitado pela prefeitura, pois
+
+A) o custo de cada lixeira ficou em R$ 21,60.
+B) o custo de cada lixeira ficou em R$ 27,00.
+C) o custo de cada lixeira ficou em R$ 32,40.
+D) a capacidade de cada lixeira ficou 3 vezes maior.
+E) capacidade de cada lixeira ficou 9 vezes maior.

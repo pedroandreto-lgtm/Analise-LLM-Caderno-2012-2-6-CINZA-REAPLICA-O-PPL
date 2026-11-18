@@ -1,0 +1,17 @@
+QUESTÃO 168
+
+O cristalino, que é uma lente do olho humano, tem a função de fazer ajuste fino na focalização, ao que se chama acomodação. À perda da capacidade de acomodação com a idade chamamos presbiopia. A acomodação pode ser determinada por meio da convergência do cristalino. Sabe-se que a convergência de uma lente, para pequena distância focal em metros, tem como unidade de medida a dioptria (di).
+
+A presbiopia, representada por meio da relação entre a convergência máxima $C_{max}$ (em di) e a idade $T$ (em anos), é mostrada na figura seguinte.
+
+[FIGURA: Gráfico cartesiano de linha que relaciona a IDADE (anos) no eixo horizontal (eixo x) e a ACOMODAÇÃO MÁXIMA (di) no eixo vertical (eixo y). O eixo x varia de 10 a 60 anos, com marcações a cada 10 unidades. O eixo y varia de 0 a 8 dioptrias, com marcações de 2 em 2 unidades. A linha do gráfico é decrescente e reta, iniciando no ponto correspondente a (10, 8) e terminando no ponto (60, 0), ou seja, começa na idade de 10 anos com acomodação máxima de 8 dioptrias e decresce linearmente até atingir 0 dioptrias aos 60 anos de idade.]
+
+COSTA, E. V.; FARIA LEITE, C. A. F. Revista Brasileira de Ensino de Física, v. 20, n. 3, set. 1998.
+
+Considerando esse gráfico, as grandezas convergência máxima $C_{max}$ e idade $T$ estão relacionadas algebricamente pela expressão
+
+A) $C_{max} = 2^{-T}$
+B) $C_{max} = T^2 - 70T + 600$
+C) $C_{max} = \log_2 (T^2 - 70T + 600)$
+D) $C_{max} = 0,16T + 9,6$
+E) $C_{max} = -0,16T + 9,6$

@@ -1,0 +1,29 @@
+QUESTÃO 111
+
+Cientistas solucionam origem de partículas de água em Saturno
+
+O telescópio espacial Herschel resolveu um problema que ficou sem solução durante 14 anos. A origem dos vapores de água na atmosfera superior de Saturno encontra-se nas partículas que saem de uma de suas luas, a Enceladus, e chegam até o planeta. 
+
+A descoberta faz com que a Enceladus torne-se conhecida, a partir de agora, como a única lua do Sistema Solar capaz de influenciar a composição química do planeta que orbita. 
+
+O volume despejado a cada segundo não é pouco. A Enceladus chega a expelir aproximadamente 250 kg de vapores de água que se formam na região polar sul. Desse total, uma parte é perdida no espaço e entre 3% a 5% deslocam-se até Saturno. 
+
+O fenômeno, de certo modo, pôde ser compreendido graças ao avanço da tecnologia. Os astrônomos não conseguiram detectá-lo até o momento por causa da transparência dos vapores. Coube às ondas infravermelhas do Herschel esse encargo e achado. 
+
+A primeira vez que um telescópio da ESA (Agência Espacial Europeia) detectou água na atmosfera superior de Saturno foi em 1997.
+
+Disponível em: www1.folha.uol.com.br. Acesso em: 26 jul. 2011.
+
+Um texto é construído pela articulação dos vários elementos que o compõem. Tal articulação pode se dar por meio de palavras ou de expressões que remetem a outras ou, ainda, a segmentos maiores já apresentados ou a serem ainda apresentados no decorrer do texto.
+
+A análise do modo como esse texto foi construído revela que a expressão
+
+A "um problema" ($\ell$. 1) remete o leitor para "A origem dos vapores de água na atmosfera superior de Saturno" ($\ell$. 3), segmento que se encontra na frase seguinte.
+
+B "A descoberta" ($\ell$. 7) retoma "um problema que ficou sem solução durante 14 anos." ($\ell$. 1), segmento que aparece na primeira frase do texto.
+
+C "O volume despejado" ($\ell$. 11) retoma "a composição química do planeta que orbita." ($\ell$. 9), segmento apresentado na frase imediatamente anterior.
+
+D "O fenômeno" ($\ell$. 17) remete o leitor para "transparência dos vapores" ($\ell$. 20), segmento que é apresentado na frase seguinte.
+
+E "esse encargo e achado" ($\ell$. 21) retoma "avanço da tecnologia" ($\ell$. 18), segmento presente na porção anterior do texto.

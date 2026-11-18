@@ -1,0 +1,17 @@
+QUESTÃO 136
+
+A tabela seguinte apresenta a média, em kg, de resíduos domiciliares produzidos anualmente por habitante, no período de 1995 a 2005.
+
+**[FIGURA: Tabela intitulada "Produção de resíduos domiciliares por habitante em um país". A tabela possui duas colunas: "ANO" e "kg". As linhas contêm os seguintes dados: para o ano de 1995, 460 kg; para o ano de 2000, 500 kg; para o ano de 2005, 540 kg.]**
+
+Se essa produção continuar aumentando, mantendo o mesmo padrão observado na tabela, a previsão de produção de resíduos domiciliares, por habitante no ano de 2020, em kg, será
+
+A 610.
+
+B 640.
+
+C 660.
+
+D 700.
+
+E 710.

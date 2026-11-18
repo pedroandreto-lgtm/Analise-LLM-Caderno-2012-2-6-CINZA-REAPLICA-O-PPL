@@ -1,0 +1,21 @@
+QUESTÃO 161
+
+O Museu do Louvre, localizado em Paris, na França, é um dos museus mais visitados do mundo. Uma de suas atrações é a Pirâmide de Vidro, construída no final da década de 1980. A seguir tem-se, na Figura 1, uma foto da Pirâmide de Vidro do Louvre e, na Figura 2, uma pirâmide reta de base quadrada que a ilustra.
+
+[FIGURA: Figura 1: Fotografia em preto e branco da Pirâmide de Vidro do Louvre em Paris, mostrando a estrutura geométrica envidraçada em meio ao pátio do museu, cercada por edifícios clássicos ao fundo e pessoas ao redor. Figura 2: Desenho esquemático de uma pirâmide reta de base quadrada. A base é um quadrado em perspectiva (visto em viés), e as quatro faces triangulares convergem para o vértice superior, rotulado como B. Um dos vértices da base está rotulado como A. Há dois pontos marcados nas arestas: o ponto C está localizado na aresta lateral esquerda (que desce do vértice B), e o ponto D está localizado na aresta lateral direita.]
+
+Considere os pontos A, B, C, D como na Figura 2. Suponha que alguns reparos devem ser efetuados na pirâmide. Para isso, uma pessoa fará o seguinte deslocamento: 1) partir do ponto A e ir até o ponto B, deslocando-se pela aresta AB; 2) ir de B até C, deslocando-se pela aresta que contém esses dois pontos; 3) ir de C até D, pelo caminho de menor comprimento; 4) deslocar-se de D até B pela aresta que contém esses dois pontos.
+
+Disponível em: http://viagenslacoste.blogspot.com. Acesso em: 29 fev. 2012.
+
+A projeção do trajeto da pessoa no plano da base da pirâmide é melhor representada por
+
+**A** [FIGURA: Desenho de uma projeção geométrica consistindo em um segmento de reta inclinado que se conecta a um triângulo localizado à direita.]
+
+**B** [FIGURA: Desenho de uma projeção geométrica consistindo em um segmento de reta horizontal que se conecta a um triângulo à direita.]
+
+**C** [FIGURA: Desenho de uma projeção geométrica consistindo em um segmento de reta inclinado para baixo e para a direita que se conecta a um triângulo na parte inferior.]
+
+**D** [FIGURA: Desenho de uma projeção geométrica consistindo em um segmento de reta inclinado para baixo e para a direita que se conecta a um quadrilátero irregular (ou triângulo com um vértice estendido) na parte inferior direita.]
+
+**E** [FIGURA: Desenho de uma projeção geométrica consistindo em um segmento de reta inclinado para baixo e para a direita que se conecta diretamente a um triângulo retângulo na parte inferior.]

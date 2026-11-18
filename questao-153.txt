@@ -1,0 +1,13 @@
+QUESTÃO 153
+
+Um jornaleiro irá receber 21 revistas. Cada uma terá um carrinho na escala de 1:43 do tamanho real acompanhando-a em caixinha à parte. Os carrinhos são embalados com folga de 0,5 cm nas laterais, como indicado na figura. Assim, o jornaleiro reservou três prateleiras com 95 cm de comprimento por 7 cm de largura, onde as caixas serão acomodadas de forma a caberem inteiramente dentro de cada prateleira. Além disso, sabe-se que os carrinhos são cópias dos modelos reais que possuem 387 cm de comprimento por 172 cm de largura.
+
+**[FIGURA: Diagrama retangular representando a caixa de embalagem do carrinho vista de cima. No centro, há o contorno esquemático de um automóvel visto superiormente, com indicação de folgas de 0,5 cm nas quatro direções (acima, abaixo, à esquerda e à direita) delimitadas por setas duplas indicando a distância entre o carrinho e as bordas internas da caixa retangular.]**
+
+Quantos carrinhos, no máximo, cabem em cada uma das prateleiras?
+
+A 2
+B 3
+C 7
+D 9
+E 10

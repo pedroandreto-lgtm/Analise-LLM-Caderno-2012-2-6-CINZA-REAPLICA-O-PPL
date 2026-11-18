@@ -1,0 +1,15 @@
+QUESTÃO 104
+
+[FIGURA: Gráfico de linhas cartesiano intitulado "IDADE" no eixo horizontal, variando de 25 a 88 anos (com intervalos marcados a cada 7 anos: 25, 32, 39, 46, 53, 60, 67, 74, 81, 88). O eixo vertical representa a "HABILIDADE (PONTUAÇÃO NOS TESTES)", variando de 35 a 55. Há uma faixa sombreada verticalmente que destaca o período entre aproximadamente 40 e 60 anos. O gráfico apresenta três curvas pretas distintas correspondentes a:
+1. "Habilidade numérica": inicia próxima a 50 aos 25 anos, sobe até atingir um pico em torno de 46 anos (pouco acima de 52) e decresce acentuadamente até a idade de 88 anos (cerca de 40).
+2. "Habilidade verbal": inicia ligeiramente acima de 50 aos 25 anos, sobe de forma constante e suave, cruzando as outras linhas e atingindo valores mais altos (acima de 50) nas idades avançadas, mantendo-se estável até cerca de 60-67 anos antes de apresentar um declínio mais moderado.
+3. "Capacidade de resolver problemas": inicia mais baixa (cerca de 48) aos 25 anos, cresce até um platô entre 39 e 53 anos (próximo a 50) e sofre um declínio contínuo e acentuado a partir dos 53 anos.
+Na parte inferior consta a referência: BUSCATO, M.; SEGADILHA, B.; PEROSA, T. Disponível em: www.revistaepoca.globo.com. Acesso em: 28 fev. 2012.]
+
+Em variados momentos de nossa vida, precisamos interpretar as diferentes linguagens dos sistemas de comunicação. O gráfico é um desses sistemas, que, no caso apresentado, indica que as habilidades associadas à inteligência humana variam de acordo com a idade. Considerando essa informação, constata-se que
+
+A) as habilidades verbal e de resolução de problemas destacam-se entre 40 e 60 anos.
+B) a habilidade numérica diminui consideravelmente entre 20 e 40 anos.
+C) a habilidade de resolução de problemas piora consideravelmente a partir dos 30 anos.
+D) as habilidades humanas, em geral, declinam consideravelmente a partir dos 40 anos.
+E) a habilidade numérica melhora muito na faixa etária entre 60 e 80 anos.

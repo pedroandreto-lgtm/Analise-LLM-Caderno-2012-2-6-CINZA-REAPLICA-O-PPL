@@ -1,0 +1,11 @@
+QUESTÃO 178
+
+Um pintor dispõe de 35 litros de tinta vermelha e de 30 litros de tinta branca. Ele deseja misturar essas tintas na proporção de 5 litros de tinta vermelha para cada 3 litros de tinta branca para obter um tom de tinta mais claro. Para obter o maior volume possível de tinta misturada, ele deverá utilizar toda a tinta disponível de uma das cores e sobrará uma certa quantidade de tinta da outra cor.
+
+Quantos litros de tinta sobrarão sem serem misturados?
+
+A) 5.
+B) 9.
+C) 12.
+D) 14.
+E) 17.

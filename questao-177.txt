@@ -1,0 +1,15 @@
+QUESTÃO 177
+
+O Índice de Massa Corporal, abreviadamente IMC, é uma medida internacional adotada pela Organização Mundial de Saúde (OMS) para indicar se uma pessoa está com "peso" excessivo para sua altura. O cálculo do IMC é dado pela fórmula $\text{IMC} = \frac{m}{\text{h}^2}$, sendo $m$ a massa da pessoa, medida em kg, e $h$ a sua altura, em metros. Os valores da tabela foram ligeiramente adaptados com relação aos adotados pela OMS, para simplicidade nos cálculos.
+
+**[FIGURA: Tabela de classificação do IMC dividida em duas colunas. A primeira coluna, "Valor do IMC", apresenta os intervalos: "IMC < 19", "19 ≤ IMC < 25", "25 ≤ IMC < 30", "30 ≤ IMC < 40" e "IMC ≥ 40". A segunda coluna, "Classificação", associa os respectivos intervalos a: "Abaixo do Peso", "Peso Normal", "Sobrepeso", "Obesidade do tipo I" e "Obesidade Mórbida".]**
+
+Assim, segundo a OMS, um indivíduo de 2,10 metros de altura que pesa 80 kg tem IMC inferior a 19, sendo classificado como "abaixo do peso".
+
+Se um indivíduo de 144 kg e 2 metros de altura perder 64 kg numa dieta, então este indivíduo migrará da classe
+
+A obesidade mórbida para a classe abaixo do peso.
+B obesidade mórbida para a classe peso normal.
+C obesidade do tipo 1 para a classe abaixo do peso.
+D obesidade do tipo 1 para a classe peso normal.
+E sobrepeso para a classe peso normal.

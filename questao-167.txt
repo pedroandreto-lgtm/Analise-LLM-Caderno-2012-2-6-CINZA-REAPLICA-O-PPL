@@ -1,0 +1,13 @@
+QUESTÃO 167
+
+Um professor, ao fazer uma atividade de origami (dobraduras) com seus alunos, pede para que estes dobrem um pedaço de papel em forma triangular, como na figura a seguir, de modo que M e N sejam pontos médios respectivamente de $\overline{AB}$ e $\overline{AC}$, e D, ponto do lado $\overline{BC}$, indica a nova posição do vértice A do triângulo ABC.
+
+**[FIGURA: Duas ilustrações lado a lado mostrando o processo de dobradura de um triângulo. Na primeira figura à esquerda, há um triângulo ABC com vértices A (topo), B (direita) e C (esquerda). Uma linha tracejada horizontal conecta o ponto N (sobre o lado AC) ao ponto M (sobre o lado AB). No meio, uma seta preta grossa aponta para a direita. Na segunda figura, o triângulo mostra o vértice A rebatido para baixo, tocando o lado BC no ponto D. A dobra é feita ao longo da linha tracejada NM. Há uma seta curva indicando o movimento do vértice A até a posição D. O triângulo central formado pelas dobras (NMD) está preenchido com tom cinza escuro.]**
+
+Se ABC é um triângulo qualquer, após a construção, são exemplos de triângulos isósceles os triângulos
+
+A) CMA e CMB.
+B) CAD e ADB.
+C) NAM e NDM.
+D) CND e DMB.
+E) CND e NDM.

@@ -1,0 +1,23 @@
+QUESTÃO 169
+
+O governo de um país criou o Fundo da Soja e do Milho, que tem como expectativa inicial arrecadar, por ano, R$ 36,14 milhões para investimento em pesquisas relacionadas aos principais produtos da agricultura. Com isso, a cada operação de venda, seriam destinados ao Fundo R$ 0,28 por tonelada de soja e R$ 0,22 por tonelada de milho comercializadas. Para este ano, espera-se que as quantidades de toneladas produzidas, de soja e de milho, juntas, seja 150,5 milhões.
+
+Foi pedido a cinco funcionários do Fundo, André, Bruno, Caio, Douglas e Eduardo, que apresentassem um sistema que modelasse os dados apresentados. Cada funcionário apresentou um sistema diferente, considerando $x$ e $y$ como as quantidades de toneladas comercializadas, respectivamente, de soja e de milho. O resultado foi o seguinte:
+
+André $\begin{cases} x + y = 150\,500\,000 \\ 0,28x + 0,22y = 36\,140\,000 \end{cases}$
+
+Bruno $\begin{cases} 100\,000\,000x + 100\,000\,000y = 150,5 \\ 0,28x + 0,22y = 36\,140\,000 \end{cases}$
+
+Caio $\begin{cases} x + y = 150,5 \\ 0,28x + 0,22y = 36\,140\,000 \end{cases}$
+
+Douglas $\begin{cases} x + y = 150,5 \\ 0,28x + 0,22y = 36,14 \end{cases}$
+
+Eduardo $\begin{cases} x + y = 150\,500\,000 \\ 0,28x + 0,22y = 36,14 \end{cases}$
+
+O funcionário que fez a modelagem correta foi
+
+A André.
+B Bruno.
+C Caio.
+D Douglas.
+E Eduardo.

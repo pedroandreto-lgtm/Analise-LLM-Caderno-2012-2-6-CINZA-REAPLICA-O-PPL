@@ -1,0 +1,11 @@
+QUESTÃO 150
+
+O sistema de numeração romana, hoje em desuso, já foi o principal sistema de numeração da Europa. Nos dias atuais, a numeração romana é usada no nosso cotidiano essencialmente para designar os séculos, mas já foi necessário fazer contas e descrever números bastante grandes nesse sistema de numeração. Para isto, os romanos colocavam um traço sobre o número para representar que esse número deveria ser multiplicado por 1 000. Por exemplo, o número $\overline{\text{X}}$ representa o número $10 \times 1\text{ }000$, ou seja, $10\text{ }000$.
+
+De acordo com essas informações, os números $\overline{\text{MCCV}}$ e $\overline{\text{XLIII}}$ são, respectivamente, iguais a:
+
+A) $1\text{ }205\text{ }000$ e $43\text{ }000$.
+B) $1\text{ }205\text{ }000$ e $63\text{ }000$.
+C) $1\text{ }205\text{ }000$ e $493\text{ }000$.
+D) $1\text{ }250\text{ }000$ e $43\text{ }000$.
+E) $1\text{ }250\text{ }000$ e $63\text{ }000$.

@@ -1,0 +1,13 @@
+QUESTÃO 155
+
+O Índice de Desenvolvimento Humano (IDH) mede a qualidade de vida dos países para além dos indicadores econômicos. O IDH do Brasil tem crescido ano a ano e atingiu os seguintes patamares: 0,600 em 1990; 0,665 em 2000; 0,715 em 2010. Quanto mais perto de 1,00, maior é o desenvolvimento do país.
+
+O Globo. Caderno Economia, 3 nov. 2011 (adaptado).
+
+Observando o comportamento do IDH nos períodos citados, constata-se que, ao longo do período 1990-2010, o IDH brasileiro
+
+A) diminuiu com variações decenais crescentes.
+B) diminuiu em proporção direta com o tempo.
+C) aumentou com variações decenais decrescentes.
+D) aumentou em proporção direta com o tempo.
+E) aumentou em proporção inversa com o tempo.

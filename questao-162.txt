@@ -1,0 +1,13 @@
+QUESTÃO 162
+
+O abandono escolar no ensino médio é um dos principais problemas da educação no Brasil. Reduzir as taxas de abandono tem sido uma tarefa que exige persistência e ações continuadas dos organismos responsáveis pela educação no país.O gráfico apresentado a seguir mostra as taxas percentuais de abandono no ensino médio, para todo o país, no período de 2007 a 2010, em que se percebe uma queda a partir de 2008. Com o objetivo de reduzir de forma mais acentuada a evasão escolar são investidos mais recursos e intensificadas as ações, para se chegar a uma taxa em torno de 5,2% ao final do ano de 2013.
+
+[FIGURA: Gráfico de linhas bidimensional que ilustra a evolução da taxa percentual de abandono escolar no ensino médio no Brasil entre os anos de 2007 e 2010. O eixo horizontal (abscissas) apresenta os anos discretos: 2007, 2008, 2009 e 2010. O eixo vertical não exibe valores numéricos explícitos, contendo apenas linhas de grade horizontais paralelas para referência visual. A linha contínua preta conecta quatro pontos de dados demarcados com seus respectivos valores numéricos acima ou ao lado dos vértices: em 2007, o valor inicia em 13,2; em 2008, declina para 12,8; em 2009, cai para 11,5; e em 2010, atinge 10,3, evidenciando uma tendência de queda contínua e linear aproximada ao longo do quadriênio. No interior da área inferior do gráfico, há uma marca d'água centralizada em cinza claro com o logotipo e a sigla "IBGE - Instituto Brasileiro de Geografia e Estatística".]MEC/Inep, Censo Escolar (adaptado).
+
+Qual a taxa de redução anual que deve ser obtida para que se chegue ao patamar desejado para o final de 2013? Considere $(0,8)^3 = 0,51$.
+
+A) 10%
+B) 20%
+C) 41%
+D) 49%
+E) 51%

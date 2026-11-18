@@ -1,0 +1,12 @@
+QUESTÃO 151
+Alguns países têm regulamentos que obrigam a misturar 5%, 10% ou 20% de etanol com a gasolina regular. Esta mistura recebe o nome de gasool. E20, por exemplo, é o gasool que contém a mistura de 20% de etanol com 80% de gasolina. Em agosto de 2011, o governo decidiu reduzir a mistura de etanol na gasolina de 25% para 20%, isto é, nossos postos de gasolina, a partir daquele mês, não puderam mais vender o combustível do tipo E25.
+
+Disponível em: http://g1.globo.com (adaptado).
+
+Uma distribuidora possuía 40 mil litros de combustível do tipo E25, disponíveis em um dos tanques de seu estoque antigo. Quantos litros de gasolina precisam ser adicionados de modo a obter uma mistura E20?
+
+A 32 000
+В 16 000
+C 10 000
+D 8 000
+E 2 000

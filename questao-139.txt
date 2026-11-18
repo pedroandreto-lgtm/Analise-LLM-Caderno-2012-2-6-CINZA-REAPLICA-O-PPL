@@ -1,0 +1,13 @@
+QUESTÃO 139
+
+O consumo de energia elétrica, nos últimos meses, na casa de uma família, é mostrado nas seguintes tabelas.
+
+[FIGURA: Duas tabelas horizontais organizadas em linhas e colunas. A primeira tabela apresenta o consumo nos meses de setembro, outubro e novembro de 2011: set./2011 com 292 kWh, out./2011 com 284 kWh, e nov./2011 com 301 kWh. A segunda tabela apresenta o consumo nos meses de dezembro de 2011, janeiro e fevereiro de 2012: dez./2011 com 292 kWh, jan./2012 com 281 kWh, e fev./2012 com 242 kWh.]
+
+A média do consumo mensal de energia elétrica na casa dessa família, de setembro de 2011 a fevereiro de 2012, é
+
+A) 280.
+B) 282.
+C) 284.
+D) 288.
+E) 292.
